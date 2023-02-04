@@ -6,8 +6,10 @@
 
   (title_block
     (title "Night Light")
-    (date "2023-01-05")
-    (company "Zach Dribin")
+    (date "2023-02-04")
+    (rev "1.0.0")
+    (company "Julian Jayhawks")
+    (comment 1 "Zach Dribin")
   )
 
   (lib_symbols
