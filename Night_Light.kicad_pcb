@@ -7,10 +7,10 @@
   (paper "USLetter")
   (title_block
     (title "Night Light")
-    (date "2023-02-04")
+    (date "2023-02-14")
     (rev "1.0.0")
     (company "Julian Jayhawks")
-    (comment 1 "Zach Dribin")
+    (comment 1 "Zach \"Chef\" Dribin")
   )
 
   (layers
